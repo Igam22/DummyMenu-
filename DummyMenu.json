@@ -1,0 +1,43 @@
+{"menu": {
+    "items": [
+        {
+            "name":"coke",
+            "qty": 20,
+            "category":"drinks",
+            "sizes":["small","medium","large"]
+        },
+        {
+            "name":"Sprite",
+            "qty": 20,
+            "category":"drinks",
+            "sizes":["small","medium","large"]
+        },
+        {
+            "name":"water",
+            "qty": 20,
+            "category":"drinks",
+            "sizes":["small","medium","large"]
+        },
+        {
+            "name":"Salad",
+            "qty": 40,
+            "category":"starter",
+            "sizes":["small","medium","large"], 
+            "dressings":["honey-vinegar","yogurt"]
+        },
+        {
+            "name":"fries",
+            "qty": 20,
+            "category":"starter",
+            "sizes":["small","medium","large"]
+            "sauces":["ketchup","Mayo"] 
+        },
+        {
+            "name":"pizza",
+            "qty": 20,
+            "category":"MainCourse",
+            "sizes":["small","medium","large"]
+            "Type":["Salami","Margeritha"]
+        }
+    ]
+}

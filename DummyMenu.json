@@ -1,3 +1,4 @@
+
 {"menu": {
     "items": [
         {
@@ -29,15 +30,16 @@
             "name":"fries",
             "qty": 20,
             "category":"starter",
-            "sizes":["small","medium","large"]
+            "sizes":["small","medium","large"],
             "sauces":["ketchup","Mayo"] 
         },
         {
             "name":"pizza",
             "qty": 20,
             "category":"MainCourse",
-            "sizes":["small","medium","large"]
+            "sizes":["small","medium","large"],
             "Type":["Salami","Margeritha"]
         }
     ]
+}  
 }
